@@ -1,0 +1,10 @@
+alma 1 1.1
+körte 2 2.2
+banán 3 3.3
+eper 4 4.4
+ananász 5 5.5
+mangó 6 6.6
+szilva 9 9.9
+cseresznye 66 69.5
+meggy 8 69.7
+narancs 11 25.4
