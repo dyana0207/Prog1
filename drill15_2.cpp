@@ -37,7 +37,8 @@ ostream & operator<<(ostream & os, Person & s){  return os << s.first() <<" "<< 
 istream & operator>>(istream & is, Person & s){ 
 	string f,l;
 	int a;
-	is >> f >> l >>a;
+	is >> f;
+	is >> l >>a;
 	s=Person(f,l,a);
 	return is;
 	}
